@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF61D2&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Power+BI;Excel+%7C+Data+Visualization" />
 </p>
 ---
 
